@@ -6,8 +6,8 @@
     <string name="title_activity_login">Iniciar Sesión</string>
 
     <!-- Strings related to login -->
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_email">correo</string>
+    <string name="prompt_password">contraseña</string>
     <string name="action_sign_in">Iniciar sesión</string>
     <string name="action_sign_in_short">Iniciar Sesión</string>
     <string name="error_invalid_email">Esta dirección de correo es inválida</string>
@@ -19,4 +19,5 @@
     </string>
     <string name="login_remember_password">¿has olvidado tu contraseña?</string>
     <string name="login_register_prompt">¿aún no estás registrado? Regístrate</string>
+    <string name="login_main_title">Accede a TuVeterinario</string>
 </resources>

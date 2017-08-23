@@ -20,4 +20,20 @@
     <string name="login_remember_password">¿has olvidado tu contraseña?</string>
     <string name="login_register_prompt">¿aún no estás registrado? Regístrate</string>
     <string name="login_main_title">Accede a TuVeterinario</string>
+    <string name="registro_title">Regístrate para usar TuVeterinario</string>
+    <string name="registro_fullname">Nombre completo</string>
+    <string name="registroEmail">Correo</string>
+    <string name="registroCedula">Cédula</string>
+    <string name="registroTelefono">Teléfono / celular</string>
+    <string name="registroCiudad">Ciudad</string>
+    <string name="registroDireccion">Dirección</string>
+    <string name="registroBtnRegistrate">Regístrate</string>
+    <string name="registroLinkLogin">¿ya tienes cuenta? Inicia Sesión</string>
+    <string name="registroConfirmacionMainTitle">Bienvenido a la comunidad TuVeterinario!</string>
+    <string name="registroConfirmacionText">Gracias por registrarte. Para completar el proceso no olvides hacer clic en el link del correo que te enviamos para confirmar tu cuenta.</string>
+    <string name="registroConfirmacionBtnContinuar">Continuar</string>
+    <string name="serviciosMainTitle">TuVeterinario</string>
+    <string name="serviciosBtnVeterinarioOnline">Veterinario Online</string>
+    <string name="serviciosBtnVeterinariosYClinicas">Veterinario y Clínicas cerca de ti</string>
+    <string name="serviciosBtnServiciosPremium">Servicios Premium</string>
 </resources>

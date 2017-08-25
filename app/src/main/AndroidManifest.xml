@@ -26,7 +26,8 @@
             android:label="@string/title_activity_login" />
         <activity android:name=".RegistroActivity" />
         <activity android:name=".ConfirmacionRegistroActivity" />
-        <activity android:name=".ServiciosActivity"></activity>
+        <activity android:name=".ServiciosActivity" />
+        <activity android:name=".ConsultaOnline1"></activity>
     </application>
 
 </manifest>

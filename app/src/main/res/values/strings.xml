@@ -36,4 +36,7 @@
     <string name="serviciosBtnVeterinarioOnline">Veterinario Online</string>
     <string name="serviciosBtnVeterinariosYClinicas">Veterinario y Clínicas cerca de ti</string>
     <string name="serviciosBtnServiciosPremium">Servicios Premium</string>
+    <string name="consultaOnline1Titulo">Consulta con Veterinario Online</string>
+    <string name="consultaOnline1Pregunta">¿cómo se llama tu mascota?</string>
+    <string name="consultaOnline1Boton">Siguiente</string>
 </resources>
